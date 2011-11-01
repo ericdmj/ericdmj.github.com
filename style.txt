@@ -1,0 +1,14 @@
+/*
+
+selector {
+	property: value;
+}
+	
+
+*/
+
+body {
+	font-family: Georgia, Times, serif;
+	color: red;
+	
+}
